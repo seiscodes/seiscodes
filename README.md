@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
-<!--
-**seiscodes/seiscodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm SeisCodes, a software developer based in Colombia.
 
-Here are some ideas to get you started:
+I use programming languages ​​such as JavaScript, Java, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like learning new things and improving the knowledge I already have.
+
+This is a fresh profile. I'll be uploading small projects, experiments, and things I'm working on.
+
+---
+
+**A Bit About Me:**
+ 
+* I have three dogs 
+* My favorite sweet is chocolate
+* **Hobbies** Read books & gym
